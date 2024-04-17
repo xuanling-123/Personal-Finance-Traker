@@ -19,7 +19,3 @@ https://github.com/xuanling-123/Personal-Finance-Traker/assets/147902495/258cd8c
 3.Enter Data: Input your financial data into the designated cells or customize the tracker according to your preferences.  
 4.Explore the Dashboard: Navigate through the different sheets and charts to gain insights into your personal finances.  
 
-## Credits
--YouTube Tutorial 1: [Link to the first YouTube tutorial that inspired this project.](https://www.youtube.com/watch?v=qCWVWv9yD3E&list=PLxuBYEpUjhDuU1Vsh25N3n4LHp1pqbmdf&index=1)  
--YouTube Tutorial 2: [Link to the second YouTube tutorial that inspired this project.](https://www.youtube.com/watch?v=SDnJKnF2cQg&list=PLxuBYEpUjhDuU1Vsh25N3n4LHp1pqbmdf&index=2)  
--YouTube Tutorial 3: [Link to the third YouTube tutorial that inspired this project.](https://www.youtube.com/watch?v=2QBYsyjJ24w&list=PLxuBYEpUjhDuU1Vsh25N3n4LHp1pqbmdf&index=3)  
